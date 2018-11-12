@@ -36,6 +36,10 @@ self.__precacheManifest = [
     "url": "/star-wars-game/static/media/starjedi-webfont.0f39a70e.woff2"
   },
   {
+    "revision": "b52f7af97b4689c705c295fe3dde5128",
+    "url": "/star-wars-game/static/media/RobotoSlab-Regular-webfont.b52f7af9.woff"
+  },
+  {
     "revision": "133825a6db5a5c229f6d997acd02e224",
     "url": "/star-wars-game/static/media/starjedi-webfont.133825a6.woff"
   },
@@ -44,11 +48,7 @@ self.__precacheManifest = [
     "url": "/star-wars-game/static/media/RobotoSlab-Bold-webfont.e56707e9.woff"
   },
   {
-    "revision": "b52f7af97b4689c705c295fe3dde5128",
-    "url": "/star-wars-game/static/media/RobotoSlab-Regular-webfont.b52f7af9.woff"
-  },
-  {
-    "revision": "fdc07a7dbb75a1295ece441366e93c3a",
+    "revision": "113c234df061a75500d80d2b2a2712c3",
     "url": "/star-wars-game/index.html"
   }
 ];
