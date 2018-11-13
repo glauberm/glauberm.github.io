@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fdbce9ecd64d97bb514a4a59c9d69635",
-    "url": "/star-wars-game/static/media/spin.fdbce9ec.svg"
+    "revision": "6ab4cea9e7cb69fb05df83ec291727d9",
+    "url": "/star-wars-game/static/media/imperial_emblem_front.6ab4cea9.svg"
   },
   {
-    "revision": "a9d3cc17df343526577b",
-    "url": "/star-wars-game/static/css/main.0e8b49d1.chunk.css"
+    "revision": "dc9a9eca57a6b4afd118",
+    "url": "/star-wars-game/static/css/main.331b87c4.chunk.css"
   },
   {
     "revision": "623669e90485fb5afca4",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/star-wars-game/static/media/imperial_emblem_back.8e32644f.svg"
   },
   {
-    "revision": "6ab4cea9e7cb69fb05df83ec291727d9",
-    "url": "/star-wars-game/static/media/imperial_emblem_front.6ab4cea9.svg"
+    "revision": "fdbce9ecd64d97bb514a4a59c9d69635",
+    "url": "/star-wars-game/static/media/spin.fdbce9ec.svg"
   },
   {
-    "revision": "a9d3cc17df343526577b",
-    "url": "/star-wars-game/static/js/main.a9d3cc17.chunk.js"
+    "revision": "dc9a9eca57a6b4afd118",
+    "url": "/star-wars-game/static/js/main.dc9a9eca.chunk.js"
   },
   {
     "revision": "0f39a70e1e250cf2722f6d504b4e423d",
@@ -36,15 +36,15 @@ self.__precacheManifest = [
     "url": "/star-wars-game/static/media/starjedi-webfont.133825a6.woff"
   },
   {
-    "revision": "b52f7af97b4689c705c295fe3dde5128",
-    "url": "/star-wars-game/static/media/RobotoSlab-Regular-webfont.b52f7af9.woff"
-  },
-  {
     "revision": "e56707e936f3817dcf2c5b8319cf9d7e",
     "url": "/star-wars-game/static/media/RobotoSlab-Bold-webfont.e56707e9.woff"
   },
   {
-    "revision": "aefca205821ed6c3337be229b890b664",
+    "revision": "b52f7af97b4689c705c295fe3dde5128",
+    "url": "/star-wars-game/static/media/RobotoSlab-Regular-webfont.b52f7af9.woff"
+  },
+  {
+    "revision": "cceee21830d4e838f8f4856bc12915e9",
     "url": "/star-wars-game/index.html"
   }
 ];
