@@ -1,14 +1,14 @@
 {
-  "main.css": "/star-wars-game/static/css/main.e45425e1.chunk.css",
-  "main.js": "/star-wars-game/static/js/main.a9595b68.chunk.js",
-  "main.js.map": "/star-wars-game/static/js/main.a9595b68.chunk.js.map",
-  "static/js/1.fe05c252.chunk.js": "/star-wars-game/static/js/1.fe05c252.chunk.js",
-  "static/js/1.fe05c252.chunk.js.map": "/star-wars-game/static/js/1.fe05c252.chunk.js.map",
+  "main.css": "/star-wars-game/static/css/main.8538dfe5.chunk.css",
+  "main.js": "/star-wars-game/static/js/main.e69080b9.chunk.js",
+  "main.js.map": "/star-wars-game/static/js/main.e69080b9.chunk.js.map",
+  "static/js/1.623669e9.chunk.js": "/star-wars-game/static/js/1.623669e9.chunk.js",
+  "static/js/1.623669e9.chunk.js.map": "/star-wars-game/static/js/1.623669e9.chunk.js.map",
   "runtime~main.js": "/star-wars-game/static/js/runtime~main.66c19485.js",
   "runtime~main.js.map": "/star-wars-game/static/js/runtime~main.66c19485.js.map",
-  "static/media/App.css": "/star-wars-game/static/media/imperial_emblem_back_choosable.3b14727c.svg",
-  "static/css/main.e45425e1.chunk.css.map": "/star-wars-game/static/css/main.e45425e1.chunk.css.map",
+  "static/media/App.css": "/star-wars-game/static/media/imperial_emblem_front.6ab4cea9.svg",
+  "static/css/main.8538dfe5.chunk.css.map": "/star-wars-game/static/css/main.8538dfe5.chunk.css.map",
   "index.html": "/star-wars-game/index.html",
-  "precache-manifest.7a0c18c3c24d384066235de8a67257ac.js": "/star-wars-game/precache-manifest.7a0c18c3c24d384066235de8a67257ac.js",
+  "precache-manifest.b7ca5bc01d45149f18a918101012e75a.js": "/star-wars-game/precache-manifest.b7ca5bc01d45149f18a918101012e75a.js",
   "service-worker.js": "/star-wars-game/service-worker.js"
 }
