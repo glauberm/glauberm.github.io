@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/star-wars-game/static/media/spin.fdbce9ec.svg"
   },
   {
-    "revision": "9abe61256701866dcdfb",
-    "url": "/star-wars-game/static/css/main.3a9662d7.chunk.css"
+    "revision": "d20f554a328015bd82c6",
+    "url": "/star-wars-game/static/css/main.b311afe2.chunk.css"
   },
   {
     "revision": "623669e90485fb5afca4",
@@ -24,12 +24,16 @@ self.__precacheManifest = [
     "url": "/star-wars-game/static/media/imperial_emblem_front.6ab4cea9.svg"
   },
   {
-    "revision": "9abe61256701866dcdfb",
-    "url": "/star-wars-game/static/js/main.9abe6125.chunk.js"
+    "revision": "d20f554a328015bd82c6",
+    "url": "/star-wars-game/static/js/main.d20f554a.chunk.js"
   },
   {
     "revision": "0f39a70e1e250cf2722f6d504b4e423d",
     "url": "/star-wars-game/static/media/starjedi-webfont.0f39a70e.woff2"
+  },
+  {
+    "revision": "e56707e936f3817dcf2c5b8319cf9d7e",
+    "url": "/star-wars-game/static/media/RobotoSlab-Bold-webfont.e56707e9.woff"
   },
   {
     "revision": "133825a6db5a5c229f6d997acd02e224",
@@ -40,11 +44,7 @@ self.__precacheManifest = [
     "url": "/star-wars-game/static/media/RobotoSlab-Regular-webfont.b52f7af9.woff"
   },
   {
-    "revision": "e56707e936f3817dcf2c5b8319cf9d7e",
-    "url": "/star-wars-game/static/media/RobotoSlab-Bold-webfont.e56707e9.woff"
-  },
-  {
-    "revision": "3698d9adff47e478bcab7969de4c5f8c",
+    "revision": "ee9c9d81f1e6e5a1336938597cd7239a",
     "url": "/star-wars-game/index.html"
   }
 ];
