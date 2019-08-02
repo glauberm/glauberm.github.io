@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digital-space-agency/static/css/main.f8cf17da.chunk.css",
+    "main.js": "/digital-space-agency/static/js/main.a7154ec0.chunk.js",
+    "main.js.map": "/digital-space-agency/static/js/main.a7154ec0.chunk.js.map",
+    "runtime~main.js": "/digital-space-agency/static/js/runtime~main.5ea7bd6b.js",
+    "runtime~main.js.map": "/digital-space-agency/static/js/runtime~main.5ea7bd6b.js.map",
+    "static/js/2.7ce5f5dc.chunk.js": "/digital-space-agency/static/js/2.7ce5f5dc.chunk.js",
+    "static/js/2.7ce5f5dc.chunk.js.map": "/digital-space-agency/static/js/2.7ce5f5dc.chunk.js.map",
+    "index.html": "/digital-space-agency/index.html",
+    "precache-manifest.61a9874fa3ea6489d6379fba033200f1.js": "/digital-space-agency/precache-manifest.61a9874fa3ea6489d6379fba033200f1.js",
+    "service-worker.js": "/digital-space-agency/service-worker.js",
+    "static/css/main.f8cf17da.chunk.css.map": "/digital-space-agency/static/css/main.f8cf17da.chunk.css.map",
+    "static/media/arrow-left.svg": "/digital-space-agency/static/media/arrow-left.09d69682.svg",
+    "static/media/arrow-right.svg": "/digital-space-agency/static/media/arrow-right.9de88c4b.svg",
+    "static/media/close.svg": "/digital-space-agency/static/media/close.f98bfc4d.svg",
+    "static/media/logo.svg": "/digital-space-agency/static/media/logo.50a7c961.svg",
+    "static/media/menu.svg": "/digital-space-agency/static/media/menu.d90148e4.svg",
+    "static/media/moon.jpeg": "/digital-space-agency/static/media/moon.00b59802.jpeg",
+    "static/media/shuttle.jpeg": "/digital-space-agency/static/media/shuttle.67b10386.jpeg",
+    "static/media/App.scss": "/digital-space-agency/static/media/space.dcd64e7c.jpeg"
+  }
+}
