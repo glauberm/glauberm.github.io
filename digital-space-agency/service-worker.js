@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/digital-space-agency/precache-manifest.61a9874fa3ea6489d6379fba033200f1.js"
+  "/digital-space-agency/precache-manifest.b8e8af2e1ebf41285054049992671353.js"
 );
 
 self.addEventListener('message', (event) => {
